@@ -1,4 +1,4 @@
-## Álvaro Cárdenas Orozco
+## Alvaro Cardenas Orozco
 
 Ingeniero de Sistemas y Computación (UTP) y Doctor en Ciencias de la Educación. Docente de Tecnología e Informática en la I.E. Sor María Juliana (Cartago, Colombia) desde 2015 y docente de posgrado en la Universidad Tecnológica de Pereira entre 2018 y 2022.
 
